@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
 
-<p align="center">
-  <b>Building LLM systems, scalable APIs, and production infra</b>
-</p>
 
 <!-- Tech Stacks -->
 <div align="left">
@@ -62,4 +54,13 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white">
 
+</div>
+
+<div align="left">
+  <h2>🏅 Stats</h2>
+</div>
+
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=BuumJuun&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuumJuun&layout=compact&theme=transparent" />
 </div>
