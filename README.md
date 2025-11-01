@@ -56,6 +56,9 @@
 
 </div>
 
+<!-- End of Tech Section -->
+<hr style="margin: 40px 0; border: 1px solid #e5e5e5;">
+
 <div align="left">
   <h2>🏅 Stats</h2>
 </div>
