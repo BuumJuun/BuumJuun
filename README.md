@@ -22,6 +22,10 @@
   <h3>🧠 AI / LLM</h3>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/FAISS-02569B?style=flat&logo=meta&logoColor=white">
+  <img src="https://img.shields.io/badge/ChromaDB-3DDC84?style=flat&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/pgvector-316192?style=flat&logo=postgresql&logoColor=white">
   <br><br>
 
   <!-- Frontend -->
