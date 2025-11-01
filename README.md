@@ -56,7 +56,7 @@
 
 </div>
 
-<!-- End of Tech Section -->
+<!-- Stats -->
 <hr style="margin: 40px 0; border: 1px solid #e5e5e5;">
 
 <div align="left">
@@ -67,3 +67,26 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=BuumJuun&show_icons=true&theme=transparent&rank_icon=github" />
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuumJuun&layout=compact&theme=transparent" />
 </div>
+
+<!-- Contact -->
+<hr style="margin: 40px 0; border: 1px solid #e5e5e5;">
+
+<div align="left">
+  <h2>🧑‍💻 Contact Me</h2>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="mailto:kimbj990114@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
+  </a>
+  <a href="https://velog.io/@qjawns99/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white">
+  </a>
+</div>
+
+<br><br>
