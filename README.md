@@ -17,7 +17,7 @@
 
   <!-- AI / LLM -->
   <h3>🧠 AI / LLM</h3>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white">
   <br><br>
 
