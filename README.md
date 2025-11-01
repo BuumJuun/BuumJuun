@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>Building LLM systems, scalable APIs, and production infra</b>
+</p>
+
 <!-- Tech Stacks -->
 <div align="left">
 <h2>🛠️ Tech Stacks</h2>
